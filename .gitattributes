@@ -1,0 +1,10 @@
+﻿* text=auto
+
+*.py text eol=lf
+*.go text eol=lf
+*.rs text eol=lf
+*.php text eol=lf
+*.java text eol=lf
+*.cs text eol=lf
+*.ex text eol=lf
+*.md text eol=lf

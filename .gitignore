@@ -1,0 +1,12 @@
+﻿node_modules/
+dist/
+__pycache__/
+*.pyc
+.env
+.env.*
+.DS_Store
+/target/
+/bin/
+/obj/
+/_build/
+/deps/
