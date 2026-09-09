@@ -1,61 +1,53 @@
-﻿<div align="center">
+<div align="center">
 
-# rust-axum-pulse
-
-**Pulse, in Rust.**
-
-![license](https://img.shields.io/github/license/knownasrazi/rust-axum-pulse?style=flat-square&color=ebe7e0&label=license)
-![version](https://img.shields.io/badge/version-1.0.0-ebe7e0?style=flat-square&label=version)
-![lang](https://img.shields.io/badge/lang-rust-ede9e3?style=flat-square&label=lang)
-
-Rust Axum pulse - async, typed, and deploy-ready.
+![license](https://img.shields.io/github/license/knownasrazi/rust-axum-pulse?style=flat-square&color=ebe7e0) ![lang](https://img.shields.io/badge/lang-Rust-ede9e3?style=flat-square) ![version](https://img.shields.io/badge/version-1.0.0-ebe7e0?style=flat-square)
 
 </div>
-
----
-
-## Why rust-axum-pulse?
-
-> Pulse, in Rust. - built for vibe coders and web developers who ship with taste.
-
-Rust Axum pulse - async, typed, and deploy-ready. This template keeps the cream aesthetic - stone, ink, and low contrast - and ships with a clean structure you can vibe-code on top of.
-
-## Stack
-
-- **Language:** rust
-- **Style:** Tailwind cream tokens, Biome where applicable
-- **Quality:** CI, lint, and a minimal test harness
-
-## Get started
-
-```bash
-git clone https://github.com/knownasrazi/rust-axum-pulse.git
-cd rust-axum-pulse
-```
-
-Language-specific quick start is inside.
-
-## Structure
-
-```
-rust-axum-pulse/
-  README.md
-  LICENSE
-  src/ or app/  # language entry
-```
-
-## Cream tokens
-
-Cream #fdfcfa, stone #ebe7e0, ink #1a1a1a.
-
-## License
-
-[MIT](./LICENSE) + [Razi](https://github.com/knownasrazi)
 
 ---
 
 <div align="center">
 
-**rust-axum-pulse** - Rust Axum pulse - async, typed, and deploy-ready.
+# rust-axum-pulse
+
+Rust Axum pulse - async, typed, and deploy-ready.
+
+*Pulse, in Rust.*
 
 </div>
+
+---
+
+## Documentation
+
+### What it does
+
+Rust Axum pulse - async, typed, and deploy-ready. It does one thing, well.
+
+### Who it is for
+
+- Vibe coders who prompt and ship
+- Web developers who care about taste
+- Anyone tired of heavy tools
+
+### How it works
+
+1. Clone the repo
+2. Run the dev server for your language (Rust)
+3. Open, use, and export
+
+```bash
+git clone https://github.com/knownasrazi/rust-axum-pulse.git
+cd rust-axum-pulse
+# follow language quick start inside
+```
+
+## Stack details
+
+- **Language:** Rust
+- **Style:** Cream aesthetic, minimal border, generous whitespace
+- **License:** MIT
+
+---
+
+*Built with cream and good intentions.*
